@@ -67,6 +67,13 @@ console.log("Result: ", expResult);
 let moduleResult = 5 % 2;
 console.log("Result: ", moduleResult);
 
+let number = 1;
+
+number = number + 1;
+number += 1;
+number++;
+console.log("NUMBER: ", number);
+
 // Strings
 
 let myName = "Adrián";
