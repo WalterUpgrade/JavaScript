@@ -94,7 +94,7 @@ container.insertBefore(newP, p1);
 
 
 
-// Eventos
+// Eventos y comportamiento en la web
 
 title.addEventListener("click", () => {
   console.log("Se ha hecho click en el título");
